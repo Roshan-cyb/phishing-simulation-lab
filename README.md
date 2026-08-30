@@ -59,7 +59,7 @@ It also demonstrated why organizations should use multi-factor authentication, p
 
 This lab used an existing third-party security testing tool/framework.
 
-**Original tool:** [ADD ORIGINAL PROJECT / GITHUB LINK]
+**Original tool: ShellPhish
 
 The underlying tool is not my original work. This repository documents my own educational lab exercise, observations, and learning.
 
