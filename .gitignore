@@ -1,0 +1,13 @@
+# Sensitive lab output
+login_info.txt
+victim_ip.txt
+*.log
+*.csv
+
+# Secrets and local configuration
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
